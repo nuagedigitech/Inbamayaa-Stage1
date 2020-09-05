@@ -1,0 +1,28 @@
+---
+title: "275 Kgs Rice Distribution"
+slug: "275-kgs-rice-distribution"
+collection-id: "5f1a5f5e0f91036c6b050371"
+item-id: "5f1a5f5e0f91032b0e0503d7"
+activity-description: "<p>Distributed 275kg of rice to the needy people around slum area in KK Nagar! Interested then please do share your contribution here! Contact 7358174486!</p>"
+main-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91038b8e0503d8_103115646_2401713743462105_6012505530145605335_o_2401713740128772.jpg"
+new-date: "Wed Jun 10 2020 15:48:00 GMT+0000 (Coordinated Universal Time)"
+day: "10"
+month: "Jun"
+year: "2020"
+location: "Chennai"
+activity-summary: "Distributed 275kg of rice to the needy people around slum area in KK Nagar."
+thumbnail-image: ""
+featured: ""
+category: "Food Aid"
+activity-image-1: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103128b05041e_79280318_2401713910128755_3837069179567923011_o_2401713906795422.jpg"
+activity-image-2: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91032d6305041d_101829805_2401713823462097_7425891367733167476_o_2401713820128764.jpg"
+activity-image-3: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103452105041b_101973426_2401713540128792_1650763110207045518_o_2401713533462126.jpg"
+activity-image-4: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91038f8f05041a_102361845_2401713416795471_374837965762067933_o_2401713413462138.jpg"
+activity-image-5: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103172e050419_102379148_2401713360128810_1692239008799372875_n_2401713356795477.jpg"
+activity-image-6: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103af7a0503fc_104105834_2401713616795451_8727602315052409854_o_2401713613462118.jpg"
+date: "2020-07-17T15:49:45.000Z"
+layout: "single-activities.html"
+tags: "activities"
+---
+
+

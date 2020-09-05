@@ -1,0 +1,520 @@
+{
+  "backend": {
+    "name": "git-gateway",
+    "accept_roles": [
+      "admin",
+      "editor"
+    ]
+  },
+  # /admin/config.yml
+  publish_mode: editorial_workflow,
+  "media_folder": "static/images/uploads",
+  "collections": [
+    {
+      "name": "pages",
+      "label": "Pages",
+      "folder": "site/pages",
+      "create": false,
+      "delete": false,
+      "slug": "{{slug}}",
+      "editor": {
+        "preview": false
+      },
+      "fields": [
+        {
+          "label": "Title",
+          "name": "title",
+          "widget": "string"
+        },
+        {
+          "label": "Publish Date",
+          "name": "date",
+          "widget": "datetime"
+        },
+        {
+          "label": "Layout",
+          "widget": "hidden",
+          "name": "layout",
+          "default": "{{slug}}.html"
+        },
+        {
+          "label": "Seo",
+          "name": "seo",
+          "widget": "object",
+          "fields": [
+            {
+              "label": "Title",
+              "name": "title",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Description",
+              "name": "description",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Open Graph Image",
+              "name": "og:image",
+              "widget": "image",
+              "required": false,
+              "media_library": {
+                "config": {
+                  "multiple": false
+                }
+              }
+            },
+            {
+              "label": "Twitter Card",
+              "name": "twitter:card",
+              "widget": "string",
+              "default": "summary",
+              "required": false
+            },
+            {
+              "label": "Twitter Site",
+              "name": "twitter:site",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Twitter Creator",
+              "name": "twitter:creator",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Additional HTML tags",
+              "name": "additional_tags",
+              "widget": "text",
+              "required": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "activities",
+      "label": "Activities",
+      "folder": "site/activities",
+      "create": true,
+      "slug": "{{slug}}",
+      "editor": {
+        "preview": false
+      },
+      "fields": [
+        {
+          "label": "Title",
+          "name": "title",
+          "widget": "string"
+        },
+        {
+          "label": "Tags",
+          "widget": "hidden",
+          "name": "tags",
+          "default": "activities"
+        },
+        {
+          "label": "Publish Date",
+          "name": "date",
+          "widget": "datetime"
+        },
+        {
+          "label": "Layout",
+          "widget": "hidden",
+          "name": "layout",
+          "default": "single-activities.html"
+        },
+        {
+          "label": "Seo",
+          "name": "seo",
+          "widget": "object",
+          "fields": [
+            {
+              "label": "Title",
+              "name": "title",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Description",
+              "name": "description",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Open Graph Image",
+              "name": "og:image",
+              "widget": "image",
+              "required": false,
+              "media_library": {
+                "config": {
+                  "multiple": false
+                }
+              }
+            },
+            {
+              "label": "Twitter Card",
+              "name": "twitter:card",
+              "widget": "string",
+              "default": "summary",
+              "required": false
+            },
+            {
+              "label": "Twitter Site",
+              "name": "twitter:site",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Twitter Creator",
+              "name": "twitter:creator",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Additional HTML tags",
+              "name": "additional_tags",
+              "widget": "text",
+              "required": false
+            }
+          ]
+        },
+        {
+          "name": "year",
+          "label": "Year",
+          "widget": "select",
+          options: ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"]
+        },
+        {
+          "name": "month",
+          "label": "Month",
+          "widget": "select",
+          options: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+        },
+        {
+          "name": "day",
+          "label": "Day",
+          "widget": "select",
+          options: ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31"]
+        },
+        {
+          "name": "location",
+          "label": "Location",
+          "widget": "select",
+          options: ["Chennai", "Coimbatore", "Madurai", "Erode", "Salem", "Tiruchirappalli", "Tiruppur", "Nagercoil", "Vellore", "Tiruvallur"]
+        },
+        {
+          "name": "main-image",
+          "label": "Main image",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-description",
+          "label": "Activity description",
+          "widget": "text",
+          "required": false
+        },
+        {
+          "name": "category",
+          "label": "Category",
+          "widget": "select",
+          options: ["Food Aid", "Medical Camps", "Clothes Distribution", "Education Aid", "Environment Awareness"]
+        },
+        {
+          "name": "activity-image-1",
+          "label": "Activity image 1",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-image-2",
+          "label": "Activity image 2",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-image-3",
+          "label": "Activity image 3",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-image-4",
+          "label": "Activity image 4",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-image-5",
+          "label": "Activity image 5",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "activity-image-6",
+          "label": "Activity image 6",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "label": "Body",
+          "name": "body",
+          "widget": "markdown",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "events",
+      "label": "Events",
+      "folder": "site/events",
+      "create": true,
+      "slug": "{{slug}}",
+      "editor": {
+        "preview": false
+      },
+      "fields": [
+        {
+          "label": "Title",
+          "name": "title",
+          "widget": "string"
+        },
+        {
+          "label": "Tags",
+          "widget": "hidden",
+          "name": "tags",
+          "default": "events"
+        },
+        {
+          "label": "Publish Date",
+          "name": "date",
+          "widget": "datetime"
+        },
+        {
+          "label": "Layout",
+          "widget": "hidden",
+          "name": "layout",
+          "default": "single-events.html"
+        },
+        {
+          "label": "Seo",
+          "name": "seo",
+          "widget": "object",
+          "fields": [
+            {
+              "label": "Title",
+              "name": "title",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Description",
+              "name": "description",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Open Graph Image",
+              "name": "og:image",
+              "widget": "image",
+              "required": false,
+              "media_library": {
+                "config": {
+                  "multiple": false
+                }
+              }
+            },
+            {
+              "label": "Twitter Card",
+              "name": "twitter:card",
+              "widget": "string",
+              "default": "summary",
+              "required": false
+            },
+            {
+              "label": "Twitter Site",
+              "name": "twitter:site",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Twitter Creator",
+              "name": "twitter:creator",
+              "widget": "string",
+              "required": false
+            },
+            {
+              "label": "Additional HTML tags",
+              "name": "additional_tags",
+              "widget": "text",
+              "required": false
+            }
+          ]
+        },
+        {
+          "name": "year",
+          "label": "Year",
+          "widget": "select",
+          options: ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026", "2027", "2028", "2029", "2030"]
+        },
+        {
+          "name": "month",
+          "label": "Month",
+          "widget": "select",
+          options: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+        },
+        {
+          "name": "day",
+          "label": "Day",
+          "widget": "select",
+          options: ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31"]
+        },
+        {
+          "name": "location",
+          "label": "Location",
+          "widget": "select",
+          options: ["Chennai", "Coimbatore", "Madurai", "Erode", "Salem", "Tiruchirappalli", "Tiruppur", "Nagercoil", "Vellore", "Tiruvallur"]
+        },
+        {
+          "name": "main-image",
+          "label": "Main image",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "description",
+          "label": "Description",
+          "widget": "text",
+          "required": false
+        },
+        {
+          "name": "event-status",
+          "label": "Event status",
+          "widget": "text",
+          "required": false
+        },
+        {
+          "name": "category",
+          "label": "Category",
+          "widget": "select",
+          options: ["Awards", "Award Function", "Honoring Achievers", "Annual Day Event"]
+        },
+        {
+          "name": "event-image-1",
+          "label": "Event image 1",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "event-image-2",
+          "label": "Event image 2",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "event-image-3",
+          "label": "Event image 3",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "event-image-4",
+          "label": "Event image 4",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "event-image-5",
+          "label": "Event image 5",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "name": "event-image-6",
+          "label": "Event image 6",
+          "widget": "image",
+          "required": false,
+          "media_library": {
+            "config": {
+              "multiple": false
+            }
+          }
+        },
+        {
+          "label": "Body",
+          "name": "body",
+          "widget": "markdown",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+---
+title: "Our Biggest Goal of 2020"
+slug: "our-biggest-goal-of-2020"
+collection-id: "5f1a5f5e0f91036c6b050371"
+item-id: "5f1a5f5e0f91039b25050404"
+activity-description: "<p>Public School Students. The Biggest Goal is 2020. We have successfully completed the set goal through our Inbamayaa Charitable Trust starting from 2016 to 2019. Although as usual we are relying on Facebook friends to enter the field unsupported in 2020 And to provide educational equipment, certificates and books to one lakh unsupported and talented public school students by 2020. We ask you to support us in this cause.</p><ul><li>2016: 10</li><li>2017: 100</li><li>2018: 1000</li><li>2019: 10000</li><li>2020: 100000</li></ul>"
+main-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f910364a705042f_99431255_2388121668154646_9125321824727465984_n_2388121661487980.jpg"
+new-date: "Sun May 24 2020 12:30:00 GMT+0000 (Coordinated Universal Time)"
+day: "24"
+month: "May"
+year: "2020"
+location: ""
+activity-summary: ""
+thumbnail-image: ""
+featured: ""
+category: "Education Aid"
+activity-image-1: ""
+activity-image-2: ""
+activity-image-3: ""
+activity-image-4: ""
+activity-image-5: ""
+activity-image-6: ""
+date: "2020-07-17T16:32:57.000Z"
+layout: "single-activities.html"
+tags: "activities"
+---
+
+

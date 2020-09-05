@@ -1,0 +1,28 @@
+---
+title: "Distribution of rice bags"
+slug: "distribution-of-rice-bags"
+collection-id: "5f1a5f5e0f91036c6b050371"
+item-id: "5f1a5f5e0f910311f70503c5"
+activity-description: "<p>Distribution of rice bags to the needy people in roadside and slum areas around chennai!</p>"
+main-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f910375cc050377_83226806_2406468889653257_4265178824154335630_o_2406468886319924.jpg"
+new-date: "Tue Jun 16 2020 15:39:00 GMT+0000 (Coordinated Universal Time)"
+day: "16"
+month: "Jun"
+year: "2020"
+location: "Chennai"
+activity-summary: ""
+thumbnail-image: ""
+featured: ""
+category: "Food Aid"
+activity-image-1: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103f77705038e_103120964_2406469056319907_8621868061169125584_o_2406469052986574.jpg"
+activity-image-2: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91033e8605038d_103164700_2406468699653276_4156661617737998229_o_2406468696319943.jpg"
+activity-image-3: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91030d1505038c_103257944_2406469409653205_3139579167890867778_o_2406469406319872.jpg"
+activity-image-4: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103fbb205037d_103694616_2406469099653236_421965783157833164_o_2406469096319903.jpg"
+activity-image-5: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103e2d705037c_103826583_2406468996319913_6527511816577752334_o_2406468992986580.jpg"
+activity-image-6: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f910320c005037b_104190399_2406468939653252_8264392863407087381_o_2406468936319919.jpg"
+date: "2020-07-17T15:45:38.000Z"
+layout: "single-activities.html"
+tags: "activities"
+---
+
+

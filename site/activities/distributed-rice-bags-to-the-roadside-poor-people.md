@@ -1,0 +1,28 @@
+---
+title: "Distributed rice bags"
+slug: "distributed-rice-bags-to-the-roadside-poor-people"
+collection-id: "5f1a5f5e0f91036c6b050371"
+item-id: "5f1a5f5e0f91031b7b0503fb"
+activity-description: "<p>Distributed rice bags to the roadside needies in Madhuravoyal area! Interestes to contribute then please contact here: 7358174486</p>"
+main-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91034b8f05042a_100063016_2391315584501921_3396403525712871424_o_2391315581168588.jpg"
+new-date: "Thu May 28 2020 16:15:00 GMT+0000 (Coordinated Universal Time)"
+day: "28"
+month: "May"
+year: "2020"
+location: "Chennai"
+activity-summary: ""
+thumbnail-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91033b2005042e_99136367_2391315504501929_3392838376439676928_o_2391315501168596.jpg"
+featured: ""
+category: "Food Aid"
+activity-image-1: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103246805042d_99159495_2391315717835241_730240467198803968_o_2391315714501908.jpg"
+activity-image-2: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103a60605042c_100105760_2391315804501899_7513587161665372160_o_2391315801168566.jpg"
+activity-image-3: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103c1da05042b_100573571_2391315667835246_7635438510589083648_o_2391315664501913.jpg"
+activity-image-4: ""
+activity-image-5: ""
+activity-image-6: ""
+date: "2020-07-17T16:23:21.000Z"
+layout: "single-activities.html"
+tags: "activities"
+---
+
+

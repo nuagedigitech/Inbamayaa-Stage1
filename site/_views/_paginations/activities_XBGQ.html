@@ -1,0 +1,33 @@
+{%- capture items -%}
+{%- for item in pagination.items -%}
+<div role="listitem" class="w-dyn-item w-col w-col-6">
+              <div class="events-column-inner-div-1">
+                <div class="events-column-inner-div-image"><img src="{{ item.data.main-image }}" alt="" class="image-10">
+                  <div class="text-block-13">{{ item.data.year }}</div>
+                </div>
+                <div class="events-column-inner-div-text">
+                  <div class="text-block-7-events">{{ item.data.title }}</div>
+                  <div class="events-column-inner-div-text-time"><img src="/static/images/calendar.svg" alt="" class="image-7-events">
+                    <div class="text-block-7-events-copy">Date:</div>
+                    <div class="text-block-14">{{ item.data.month }}</div>
+                    <div class="text-block-14">{{ item.data.day }}</div>
+                    <div class="text-block-22-copy">,</div>
+                    <div class="text-block-14">{{ item.data.year }}</div>
+                  </div>
+                  <div class="events-column-inner-div-text-location"><img src="/static/images/location2.svg" alt="" class="image-7-events">
+                    <div class="text-block-7-events-copy">Location:</div>
+                    <div class="text-block-14">{{ item.data.location }}</div>
+                  </div>
+                </div>
+                <a href="{{ item.url }}" class="link-block-6 w-inline-block">
+                  <div class="text-block-20">View Details</div>
+                  <div class="text-block-19"><em class="italic-text-3"></em></div>
+                </a>
+              </div>
+            </div>
+{%- endfor -%}
+{%- endcapture -%}
+{
+  "itemsHTML": {{ items | json: true }},
+  "href": {{pagination.href | json }}
+}

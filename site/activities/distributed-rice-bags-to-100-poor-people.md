@@ -1,0 +1,28 @@
+---
+title: "Distributed 100 Rice Bags"
+slug: "distributed-rice-bags-to-100-poor-people"
+collection-id: "5f1a5f5e0f91036c6b050371"
+item-id: "5f1a5f5e0f91037dee0503e9"
+activity-description: "<p>Distributed ricebags to 100 needy people around Ashok Pillar area in chennai! Thank very much Radhe shyam Hope (UK) for your immediate contribution to the urgent needies in Tamilnadu</p>"
+main-image: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103c4ac05041f_103583961_2399204720379674_5489700022479846803_n_2399204717046341.jpg"
+new-date: "Sun Jun 07 2020 16:19:00 GMT+0000 (Coordinated Universal Time)"
+day: "07"
+month: "Jun"
+year: "2020"
+location: "Chennai"
+activity-summary: ""
+thumbnail-image: ""
+featured: ""
+category: "Food Aid"
+activity-image-1: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91038a7c050425_101237729_2399204787046334_2868824283145993320_o_2399204783713001.jpg"
+activity-image-2: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103b8c2050428_101058577_2399204580379688_699355695292064287_o_2399204577046355.jpg"
+activity-image-3: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f9103effa050427_101555840_2399204477046365_6999478810749853964_o_2399204473713032.jpg"
+activity-image-4: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91036da6050424_101969855_2399204887046324_5990371884549888003_n_2399204883712991.jpg"
+activity-image-5: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91039ef3050421_102681825_2399204437046369_5057734950177831384_n_2399204433713036.jpg"
+activity-image-6: "https://uploads-ssl.webflow.com/5f1a5f5e0f9103cdcc05035e/5f1a5f5e0f91031b21050420_103028580_2399204650379681_8638925064572469611_o_2399204647046348.jpg"
+date: "2020-07-17T16:20:28.000Z"
+layout: "single-activities.html"
+tags: "activities"
+---
+
+
