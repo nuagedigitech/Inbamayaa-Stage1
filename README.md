@@ -1,2 +1,2 @@
 # Inbamayaa-Stage1
-Official Website of Inbamayaa Charitable Trust
+Official Website of Inbamayaa Foundation
