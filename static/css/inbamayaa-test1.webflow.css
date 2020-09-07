@@ -276,6 +276,14 @@
   color: #242223;
 }
 
+.text-block-email-3 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-right: 8px;
+  font-family: Nunito, sans-serif;
+  color: #242223;
+}
+
 .nav-div-links {
   display: -webkit-box;
   display: -webkit-flex;
