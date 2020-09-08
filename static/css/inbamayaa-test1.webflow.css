@@ -850,6 +850,15 @@
   font-weight: 700;
 }
 
+.text-block-7-copy-about {
+  margin-left: 10px;
+  font-family: Lora, sans-serif;
+  color: #242223;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+}
+
 .innder-column-div-1-copy {
   display: -webkit-box;
   display: -webkit-flex;
