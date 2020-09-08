@@ -841,6 +841,15 @@
   font-weight: 700;
 }
 
+.text-block-7-copy-donation {
+  margin-left: 10px;
+  font-family: Lora, sans-serif;
+  color: #242223;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+}
+
 .innder-column-div-1-copy {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1549,7 +1558,6 @@
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
-  justify-content: center;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
