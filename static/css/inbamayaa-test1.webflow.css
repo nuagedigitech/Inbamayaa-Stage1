@@ -3860,7 +3860,7 @@
   }
   .about-div-column-inner-text-copy {
     margin-top: 20px;
-    align-items: center;
+    justify-content: center;
   }
   .about-top-div-copy {
     height: auto;
