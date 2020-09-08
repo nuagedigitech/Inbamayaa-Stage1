@@ -1956,7 +1956,7 @@
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
+  display: none;
   height: 50vh;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
