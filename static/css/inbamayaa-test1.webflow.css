@@ -2863,6 +2863,50 @@
   margin-bottom: 20px;
 }
 
+.fs-filters-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 40px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.fs-filters-buttons {
+  margin-top: 20px;
+}
+
+.fltr-button {
+  margin-right: 16px;
+  margin-left: 16px;
+  padding-right: 45px;
+  padding-left: 45px;
+  border-radius: 60px;
+  background-color: #fff;
+  box-shadow: 1px 1px 3px 0 #000;
+  font-family: Bitter, serif;
+  color: #ed4a4b;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
+}
+
+.fltr-button.fltr-active {
+  margin-right: 16px;
+  margin-left: 16px;
+  background-color: #fbae4a;
+  color: #1d1b1c;
+  font-weight: 700;
+}
+
 .column-16 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -3156,6 +3200,14 @@
   .load-more-button {
     margin-right: 0px;
     margin-left: 0px;
+  }
+  .fltr-button {
+    margin-right: 8px;
+    margin-left: 8px;
+  }
+  .fltr-button.fltr-active {
+    margin-right: 8px;
+    margin-left: 8px;
   }
 }
 
@@ -3514,6 +3566,23 @@
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+  }
+  .fs-filters-buttons {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+  .fltr-button {
+    margin-bottom: 40px;
+  }
+  .fltr-button.fltr-active {
+    margin-bottom: 40px;
   }
 }
 

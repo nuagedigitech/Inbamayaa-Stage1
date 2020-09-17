@@ -77,6 +77,10 @@
           </div>
           <div class="text-block-12">Our upcoming, completed and ongoing activities list.</div>
         </div>
+        <div class="fs-filters-wrapper">
+          <div class="text-block-7-events">Filter activities by year :</div>
+          <div class="fs-filters-buttons"><a filter-by="2020" href="#" class="fltr-button w-button">2020</a><a filter-by="2019" href="#" class="fltr-button w-button">2019</a><a filter-by="2018" href="#" class="fltr-button w-button">2018</a><a filter-by="2017" href="#" class="fltr-button w-button">2017</a><a filter-by="2016" href="#" class="fltr-button w-button">2016</a></div>
+        </div>
         <div class="collection-list-wrapper-activities-page w-dyn-list">
           <div role="list" class="activities-list w-dyn-items w-row">
             {%- assign collection = collections.activities | limit: 100 -%}{%- for item in collection -%}<div role="listitem" class="w-dyn-item w-col w-col-6">
@@ -157,25 +161,20 @@
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" type="text/javascript" crossorigin="anonymous"></script>
   <script src="/static/js/webflow.js" type="text/javascript" async="" defer=""></script>
   <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
-  <script src="https://cdn.finsweet.com/files/cmslibrary-v1.6.js" async="" defer=""></script>
+  <script src="https://cdn.finsweet.com/files/cmslibrary-v1.6.js"></script>
   <script>
-// immediately/self invoked function. This function executes right away
 (function() {
-  // create a new Library instance and store it in a variable called "customBlogPosts"
-  var customActivitiesPosts = new FsLibrary('.activities-list')
-  // run the loadmore Library component on your instance
-  customActivitiesPosts.loadmore({
-    button: ".load-more-button", // class of Webflow Pagination button
-    loadAll: false, // loads ALL items in your pagination list after the page loads
-    infiniteScroll: false, // continuously load more items as you are scrolling
-    infiniteScrollPercentage: 70, // percentage of the total height of the collection list in view to trigger infinite scroll
-    animation: {
-      enable: true,
-      duration: .3,
-      easing: 'ease',
-      effects: 'fade'
-    }
-   })
+var customBlogPosts = new FsLibrary('.activities-list')
+var myFilters = [
+  {
+    filterWrapper: '.fs-filters-wrapper',
+    filterType: 'multi'
+  }
+]
+customBlogPosts.filter({
+  filterArray: myFilters,
+  activeClass: 'fltr-active'	
+})
 })();
 </script>
 
