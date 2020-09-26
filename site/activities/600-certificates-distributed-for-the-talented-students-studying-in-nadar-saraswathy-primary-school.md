@@ -1,6 +1,5 @@
 ---
-title: 600 certificates distributed for the talented students studying in Nadar
-  Saraswathy Primary School
+title: 600 certificates distributed for the talented students in Usilampatti
 tags: activities
 date: 2020-09-25T05:08:43.797Z
 layout: single-activities.html
@@ -10,8 +9,7 @@ seo:
     Totally 3000 materials has provided for needy students & 600 certificates
     distributed for the talented students studying in Nadar Saraswathy Primary
     School at Usilampatti!"
-  title: 600 certificates distributed for the talented students studying in Nadar
-    Saraswathy Primary School
+  title: 600 certificates distributed for the talented students in Usilampatti
   og:image: /static/images/uploads/75341037_2228924447407703_5596695626273259520_o_2228924440741037.jpg
 year: "2019"
 month: Nov
