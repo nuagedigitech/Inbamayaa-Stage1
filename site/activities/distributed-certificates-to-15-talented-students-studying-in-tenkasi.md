@@ -1,5 +1,5 @@
 ---
-title: Distributed certificates to 15 talented students studying in Tenkasi
+title: Distributed certificates to students in Tenkasi
 tags: activities
 date: 2020-09-25T07:27:55.828Z
 layout: single-activities.html
@@ -7,7 +7,7 @@ seo:
   twitter:card: summary
   description: Distributed certificates to 15 talented students studying in
     VinaiTheerthaPatti Panchayat union Primary School at Tenkasi!
-  title: Distributed certificates to 15 talented students studying in Tenkasi
+  title: Distributed certificates to students in Tenkasi
   og:image: /static/images/uploads/53743411_2065075120459304_9036834133946400768_o_2065075117125971.jpg
 year: "2019"
 month: Mar
