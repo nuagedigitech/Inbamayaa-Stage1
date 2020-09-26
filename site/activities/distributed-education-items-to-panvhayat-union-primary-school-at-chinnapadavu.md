@@ -1,11 +1,11 @@
 ---
-title: Distributed education items at Chinnapadavu
+title: Activities at Chinnapadavu
 tags: activities
 date: 2020-08-15T11:25:31.450Z
 layout: single-activities.html
 seo:
   twitter:card: summary
-  title: Distributed education items at Chinnapadavu
+  title: Activities at Chinnapadavu
   description: Distributed education items to panvhayat union primary school at Chinnapadavu
   og:image: /static/images/uploads/83079788_2297013070598840_4127301728498352128_o_2297013067265507.jpg
 year: "2020"
