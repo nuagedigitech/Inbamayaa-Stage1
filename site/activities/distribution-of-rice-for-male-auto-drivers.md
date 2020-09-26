@@ -1,11 +1,11 @@
 ---
-title: Distribution of rice for male auto drivers
+title: Distribution of rice to auto drivers
 tags: activities
 date: 2020-08-15T09:37:03.573Z
 layout: single-activities.html
 seo:
   twitter:card: summary
-  title: Distribution of rice for male auto drivers
+  title: Distribution of rice to auto drivers
   description: Distribution of rice for male auto drivers
   og:image: /static/images/uploads/95909683_2373706796262800_2157294392686149632_n_2373706792929467.jpg
 year: "2020"
