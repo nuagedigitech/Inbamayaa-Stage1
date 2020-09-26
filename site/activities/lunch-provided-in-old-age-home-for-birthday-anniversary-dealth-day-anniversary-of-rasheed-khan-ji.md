@@ -1,6 +1,5 @@
 ---
-title: Lunch provided in Old age home for Birthday anniversary & dealth day
-  anniversary of Rasheed Khan ji
+title: Lunch provided in Old age home
 tags: activities
 date: 2020-09-25T07:50:37.314Z
 layout: single-activities.html
@@ -8,8 +7,7 @@ seo:
   twitter:card: summary
   description: Lunch has provided in Old age home living women's today for
     Birthday anniversary & dealth day anniversary of Rasheed Khan ji!
-  title: Lunch provided in Old age home for Birthday anniversary & dealth day
-    anniversary of Rasheed Khan ji
+  title: Lunch provided in Old age home
   og:image: /static/images/uploads/53514207_2057385641228252_5905387896638013440_o_2057385634561586.jpg
 year: "2019"
 month: Mar
