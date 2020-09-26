@@ -1,11 +1,11 @@
 ---
-title: Distributed education items to panchayat union primary school at AndarKotaram
+title: Distributed education items at AndarKotaram
 tags: activities
 date: 2020-08-15T11:33:05.553Z
 layout: single-activities.html
 seo:
   twitter:card: summary
-  title: Distributed education items to panchayat union primary school at AndarKotaram
+  title: Distributed education items at AndarKotaram
   description: Distributed education items to panchayat union primary school at AndarKotaram
   og:image: /static/images/uploads/82174575_2283228415310639_7884734587295760384_o_2283228411977306.jpg
 year: "2020"
