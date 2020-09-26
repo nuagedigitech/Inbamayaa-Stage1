@@ -1,13 +1,11 @@
 ---
-title: Distributed certificates to panchayat union primary school located at
-  Ayanbabakudi
+title: Distributed certificates at Ayanbabakudi
 tags: activities
 date: 2020-08-15T11:36:06.791Z
 layout: single-activities.html
 seo:
   twitter:card: summary
-  title: Distributed certificates to panchayat union primary school located at
-    Ayanbabakudi
+  title: Distributed certificates at Ayanbabakudi
   description: Distributed certificates to panchayat union primary school located
     at Ayanbabakudi
   og:image: /static/images/uploads/82174607_2282426935390787_5803451885864091648_o_2282426932057454.jpg
