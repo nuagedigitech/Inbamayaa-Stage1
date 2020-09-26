@@ -1283,7 +1283,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   padding: 20px;
   -webkit-box-align: center;
   -webkit-align-items: center;
@@ -1457,7 +1457,7 @@
 }
 
 .events-div-copy {
-  height: 100vh;
+  height: 100%;
   background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(0, 0%, 100%, 0.9)), to(hsla(0, 0%, 100%, 0.9))), url('../images/person-690245_1920.jpg');
   background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0.9), hsla(0, 0%, 100%, 0.9)), url('../images/person-690245_1920.jpg');
   background-position: 0px 0px, 50% 50%;
