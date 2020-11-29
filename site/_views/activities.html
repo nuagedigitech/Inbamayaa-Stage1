@@ -83,7 +83,7 @@
         </div>
         <div class="collection-list-wrapper-activities-page w-dyn-list">
           <div role="list" class="activities-list w-dyn-items w-row">
-            {%- assign collection = collections.activities | limit: 100 -%}{%- for item in collection -%}<div role="listitem" class="w-dyn-item w-col w-col-6">
+            {%- assign collection = collections.activities | limit: 150 -%}{%- for item in collection -%}<div role="listitem" class="w-dyn-item w-col w-col-6">
               <div class="events-column-inner-div-1">
                 <div class="events-column-inner-div-image"><img src="{{ item.data.main-image }}" alt="" class="image-10">
                   <div class="text-block-13">{{ item.data.year }}</div>
