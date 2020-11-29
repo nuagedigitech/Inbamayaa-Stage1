@@ -1,247 +1,788 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://inbamayaa.org/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://inbamayaa.org/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/about/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/about/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/activities/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/gallery/activities-gallery/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/gallery/activities-gallery/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/contact/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/contact/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/donation/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/donation/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/about/index.html</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/about/index.html</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-rice-bags/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-rice-bags/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/275-kgs-rice-distribution/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/activities/275-kgs-rice-distribution/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-rice-bags-to-100-poor-people/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/activities/distributed-rice-bags-to-100-poor-people/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-rice-bags-to-the-roadside-poor-people/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/activities/distributed-rice-bags-to-the-roadside-poor-people/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/events/received-award-for-charitable-service/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/events/received-award-for-charitable-service/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/events/awarded-50-best-government-schools/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/events/awarded-50-best-government-schools/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/events/received-award-from-anbu-paalam/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/events/received-award-from-anbu-paalam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/events/honoured-12-achievers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/events/honoured-12-achievers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/events/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://inbamayaa.org/events/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/our-biggest-goal-of-2020/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/our-biggest-goal-of-2020/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-500-kg-of-rice/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-500-kg-of-rice/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-rice-bags-to-suffering-stage-musicians/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-rice-bags-to-suffering-stage-musicians/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-200-kg-rice-bags/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-200-kg-rice-bags/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-50kg-rice-to-suffering-handloom-workers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-50kg-rice-to-suffering-handloom-workers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-rice-bags-for-tn-dance-artists-association/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-rice-bags-for-tn-dance-artists-association/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-rice-for-male-auto-drivers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-rice-for-male-auto-drivers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-10kgs-rice-to-weavers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-10kgs-rice-to-weavers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-100-kgs-of-rice-bags-on-may-day/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-100-kgs-of-rice-bags-on-may-day/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/helping-130-families-residing-in-tribal-areas/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/helping-130-families-residing-in-tribal-areas/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/inbamayaa-planted-tree-has-grown-6-ft-tall/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/inbamayaa-planted-tree-has-grown-6-ft-tall/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-5kgs-rice-to-candy-factory-workers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-5kgs-rice-to-candy-factory-workers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-rice-to-daily-wage-workers/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-rice-to-daily-wage-workers/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-exam-materials-to-200-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-exam-materials-to-200-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-exam-materials-to-282-govt-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-exam-materials-to-282-govt-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-exam-materials-to-209-corporation-school-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-exam-materials-to-209-corporation-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/tree-plantation-as-per-greenery-india-2020-vision-by-kalam/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/tree-plantation-as-per-greenery-india-2020-vision-by-kalam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distribution-of-education-items-to-govt-school-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distribution-of-education-items-to-govt-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-corporation-school-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-corporation-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students-in-madurai/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students-at-poongulam/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-students-at-poongulam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-panvhayat-union-primary-school-at-chinnapadavu/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-panvhayat-union-primary-school-at-chinnapadavu/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/25-kg-of-rice-feeding-food-to-the-poor/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/25-kg-of-rice-feeding-food-to-the-poor/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-at-andarkotaram/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-education-items-to-panchayat-union-primary-school-at-andarkotaram/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-certificates-to-panchayat-union-primary-school-located-at-ayanbabakudi/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-panchayat-union-primary-school-located-at-ayanbabakudi/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-150-pens-30-scales-to-the-needy-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-150-pens-30-scales-to-the-needy-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-150-thirukural-books-to-government-students/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-150-thirukural-books-to-government-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-stationary-items-to-government-students-05-12-2019/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-stationary-items-to-government-students-05-12-2019/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/activities/distributed-350-pencils-to-the-deaf-dumb-little-flower-school-at-nungambakkam/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-350-pencils-to-the-deaf-dumb-little-flower-school-at-nungambakkam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://inbamayaa.org/gallery/events-gallery/</loc>
-  <lastmod>2020-09-07T14:30:47+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://inbamayaa.org/activities/distributed-study-materials-for-our-dream-project-kalam-vision-2020/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://inbamayaa.org/activities/600-certificates-distributed-for-the-talented-students-studying-in-nadar-saraswathy-primary-school/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-thirukural-books-to-150-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-awarded-medals-to-20-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-awarded-medals-to-20-talented-students-in-ariyalur/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/diwaligifts-300sarees-300sweets-solavandhanarea-kuruvithuraivillage-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/apj-abdul-kalam-birthday-celebration-in-thirusulam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/our-team-member-sabitha-mala-birthday-celebrated-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/provided-study-naterials-to-25-poor-needy-students-in-bharathiyar-high-school/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-awarded-medals-to-60-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/independencedaycelebration-treeplantation-socialactivities/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/planted-120-trees-500-seedballs-600-seed-pencils-around-10-districts-in-tn/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/hope-to-reach-one-lac-students-within-2020-by-all-your-kind-love-support-love-all-serve-all/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-the-poor-needy-students-studying-at-melmanavur/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-students-studying-in-panchayat-school/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-students-at-ranipettai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-students-a-tkaveripakkam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-26-talented-students-as-per-our-kalam-vision-2020/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-28-certificates-awarded-medals-to-students-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/inbamayaa-charitable-trust-awarded-10-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-21-talented-students-in-tenkasi/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-27-talented-students-in-tenkasi/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-20-certificates-to-the-talented-students-in-tenkasi-district/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-15-talented-students-studying-in-tenkasi/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-curd-rice-for-needy-people/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/lunch-provided-in-old-age-home-for-birthday-anniversary-dealth-day-anniversary-of-rasheed-khan-ji/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-cakes-to-all-330-students-staffs-in-government-primary-school/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-to-27-talented-students-studying-in-trichy/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-50-certificates-medals-to-students-at-ayapakkam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-25-certificates-medals-to-students-studying-in-ayapakkam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-20-certificates-to-students-at-perumaalagaram-thiruverkadu/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-for-25-talented-students-in-villivakkam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-sarees-and-celebrated-pongal-in-vedharanyam-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/activities-at-thiruvarur-district/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-food-for-needful-people-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/motivated-talented-students-in-painkatur/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-mogappair/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-sarees-sweets-foodpackets/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-to-20-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-to-40-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/planted-trees-in-schools-in-chennai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/rajini-makkal-mandram-activities-in-chennai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-to-nss-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-clothes-sweets-to-people-in-slums/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-to-28-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-ambur-vellore/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-thimiri-vellore/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-arcot-vellore/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-ranipet-vellore/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-medals-in-kavwripakkam-vellore/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/planted-trees-on-teachers-day-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-gifts-in-chettiyarpatti-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-gifts-in-alagapuri-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-gifts-in-chittampatti-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificates-gifts-in-poolaampatti-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/planted-12-trees-for-independence-day-celebration/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-talented-students-in-thirumangalam/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-talented-students-in-mangalapuram/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-talented-students-1/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-books-to-motivate-20-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-gifts-to-motivate-20-talented-students-2/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-books-to-motivate-20-talented-students-1/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-books-to-motivate-20-talented-students-2/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-book-to-motivate-20-talented-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-certificate-books-to-schools-around-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-cakes-clothes-today-for-birthday-celebration/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/service-for-the-poor-needies-in-2-govt-schools/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-notebooks-uniform-sets-to-othakadai-school/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-students-studying-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-melur-school-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-educational-materials-to-othakadai-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-notebooks-clothes-and-other-study-materials-to-students/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-study-materials-to-students-at-chellur/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/thank-you-donors-for-supporting-to-help-for-the-poor/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-another-two-sewing-machines-for-the-poor/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-three-sewing-machines-for-the-poor/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-food-for-the-poor-needies-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-fancy-items-biscuits-for-the-slum-based-children/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-clothes-biscuits-today-for-the-poor-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-clothes-to-the-poor-needies-residing-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/kuruvithurai-village-people-clothes-food-distribution/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/celebrated-with-orphan-kids-in-their-school-by-cutting-the-cakes/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/cakes-cutting-and-distribution-held-in-koothiyar-gundu-village/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/contributed-cakes-to-the-specially-capable-people/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-jilebi-in-temple-for-poor-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-old-clothes-today-for-the-poor-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-biscuit-pockets-for-the-poor-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-breadcakes-today-for-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-few-biscuit-packets-breads-clothes-to-the-poor-needies/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-biscuits-packets-today-to-the-poor-near-vadapalani/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-old-clothes-for-flood-affected-people-residing-in-vadapalani/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/activity-done-for-old-age-people-poor-girls-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/providing-badges-and-tshirts-to-26-students-for-camp/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/its-all-about-sharing-happiness-with-someone-who-is-really-seeking-love-care/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/thank-you-very-much-for-your-kind-support-to-help-for-a-poor-girl-marriage/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/distributed-food-and-enquired-about-their-expenses-in-old-age-home/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/visited-old-age-home-in-tnagar-distributed-food-items-for-dinner/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/prize-distributed-for-various-trust-children-organized-by-css-group/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/palani-andavar-adiyars-anna-dhanam-held-in-murugan-temple/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/mohamed-hussain-from-armenia-has-donated-medicines-for-medical-camp-held-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/childrens-day-special-with-gods-gifted-ones/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/activities/awareness-campaign-rally-for-underprivileged-students-marina-beach/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/gallery/events-gallery/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/events/ict-achievers-award-event-successfully-finished-in-tenkasi/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/events/golden-girl-award-to-our-social-activities-at-panaji-goa/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/events/womens-day-honouring-award-2019-government-school-hm-in-chennai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/events/womens-day-honouring-award-2019-government-school-hm-in-trichy/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://inbamayaa.org/events/honoured-extremely-talented-teachers-for-teachers-day-in-madurai/</loc>
+<lastmod>2020-11-29T12:39:22+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
